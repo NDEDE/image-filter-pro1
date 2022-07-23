@@ -16,6 +16,9 @@ http://image-filter-pro1-dev.us-east-1.elasticbeanstalk.com/
 ## package.json
 The package.json file well edited and updated
 
+##Successful responses with at least one error code for caught errors (i.e. 422)
+Successful responses have a 200 code
+
 ### Setup Node Environment
 
 You'll need to create a new node server. Open a new terminal within the project directory and run:
