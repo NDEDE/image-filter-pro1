@@ -10,6 +10,12 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 ## Tasks
 
+## Elastic Beanstalk Endpoint
+http://image-filter-pro1-dev.us-east-1.elasticbeanstalk.com/
+
+## package.json
+The package.json file well edited and updated
+
 ### Setup Node Environment
 
 You'll need to create a new node server. Open a new terminal within the project directory and run:
